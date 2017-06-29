@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.444397,
+          -33.451609
+        ]
+      },
+      "properties": {
+        "name": "La Indomable"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.3713524,
+          -33.4449013
+        ]
+      },
+      "properties": {
+        "name": "La Panadera"
+      }
+    }
+  ]
+}
