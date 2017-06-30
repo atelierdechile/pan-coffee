@@ -14,7 +14,23 @@
         "name": "Original Green Roasters"
       }
     },
-    {
+   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.3480445,
+          -33.4276064
+        ]
+      },
+      "properties": {
+        "name": "Café Altura",
+		"fono": "+569",
+		"email": "@",
+		"panes": "café de especialidad"
+      }
+   },
+   {
       "type": "Feature",
       "geometry": {
         "type": "Point",
