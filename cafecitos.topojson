@@ -19,15 +19,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          289.3713524,
-          -33.4449013
+          289.3299505,
+          -33.4456397
         ]
       },
       "properties": {
-        "name": "La Panadera",
-		"fono": "+56968316956",
-		"email": "panaderialaindomable@gmail.com",
-		"panes": "Baquettes au levain, Hogazas, Bolleria, Ciabattas"
+        "name": "Forastero",
+		"fono": "+56977999115",
+		"email": "@",
+		"panes": "café de especialidad"
       }
     }
   ]
