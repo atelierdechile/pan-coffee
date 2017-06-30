@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.444397,
+          -33.451609
+        ]
+      },
+      "properties": {
+        "name": "La Indomable"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.3713524,
+          -33.4449013
+        ]
+      },
+      "properties": {
+        "name": "La Panadera",
+		"fono": "+56968316956",
+		"email": "panaderialaindomable@gmail.com",
+		"panes": "Baquettes au levain, Hogazas, Bolleria, Ciabattas"
+      }
+    }
+  ]
+}
