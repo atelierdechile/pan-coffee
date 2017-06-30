@@ -24,7 +24,8 @@
         ]
       },
       "properties": {
-        "name": "La Panadera"
+        "name": "La Panadera",
+		"panes": "Baquettes au levain, Hogazas"
       }
     }
   ]
