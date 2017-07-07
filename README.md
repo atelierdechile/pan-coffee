@@ -1,2 +1,2 @@
-# pancito
-referencias de panaderías
+# pancito-cafecito
+referencias de panaderías, cafeterías, café de especialidad
