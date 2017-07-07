@@ -6,19 +6,9 @@
         "name": "Perú",
         "children": [
           {
-            "name": "Flowery",
+            "name": "Flowery", 
             "children": [
-              {
-                "name": "Floral",
-                "children": [
-                  {
-                    "name": "Coffee Blossom", "colour": "#f9f0ab"
-                  },
-                  {
-                    "name": "Tea Rose", "colour": "#e8e596"
-                  }
-                ]
-              },
+              {"name": "Floral","colour": "#f0e2a3"},
               {
                 "name": "Fragrant",
                 "children": [
