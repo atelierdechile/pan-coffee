@@ -22,28 +22,8 @@
           {
             "name": "Herby",
             "children": [
-              {
-                "name": "Alliaceous",
-                "children": [
-                  {
-                    "name": "Onion", "colour": "#d5dda1"
-                  },
-                  {
-                    "name": "Garlic", "colour": "#c9d2b5"
-                  }
-                ]
-              },
-              {
-                "name": "Leguminous",
-                "children": [
-                  {
-                    "name": "Cucumber", "colour": "#aec1ad"
-                  },
-                  {
-                    "name": "Garden Peas", "colour": "#a7b8a8"
-                  }
-                ]
-              }
+              {"name": "Alliaceous", "colour": "#d5dda1" },
+              {"name": "Leguminous", "colour": "#a7b8a8" }
             ]
           }
         ]
@@ -54,55 +34,15 @@
           {
             "name": "Nutty",
             "children": [
-              {
-                "name": "Nut-like",
-                "children": [
-                  {
-                    "name": "Roasted Peanuts", "colour": "#b49a3d"
-                  },
-                  {
-                    "name": "Walnuts", "colour": "#b28647"
-                  }
-                ]
-              },
-              {
-                "name": "Malt-like",
-                "children": [
-                  {
-                    "name": "Balsamic Rice", "colour": "#a97d32"
-                  },
-                  {
-                    "name": "Toast", "colour": "#b68334"
-                  }
-                ]
-              }
+              {"name": "Nut-like", "colour": "#b49a3d" },
+              {"name": "Malt-like", "colour": "#a97d32" }
             ]
           },
           {
             "name": "Carmelly",
             "children": [
-              {
-                "name": "Candy-like",
-                "children": [
-                  {
-                    "name": "Roasted Hazelnut", "colour": "#d6a680"
-                  },
-                  {
-                    "name": "Roasted Almond", "colour": "#dfad70"
-                  }
-                ]
-              },
-              {
-                "name": "Syrup-like",
-                "children": [
-                  {
-                    "name": "Honey", "colour": "#a2765d"
-                  },
-                  {
-                    "name": "Maple Syrup", "colour": "#9f6652"
-                  }
-                ]
-              }
+              {"name": "Candy-like", "colour": "#d6a680" },
+              {"name": "Syrup-like", "colour": "#9f6652" }
             ]
           },
           {
