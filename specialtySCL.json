@@ -15,28 +15,8 @@
           {
             "name": "Fruity",
             "children": [
-              {
-                "name": "Citrus",
-                "children": [
-                  {
-                    "name": "Lemon", "colour": "#efd580"
-                  },
-                  {
-                    "name": "Apple", "colour": "#f1cb82"
-                  }
-                ]
-              },
-              {
-                "name": "Berry-like",
-                "children": [
-                  {
-                    "name": "Apricot", "colour": "#f1c298"
-                  },
-                  {
-                    "name": "Blackberry", "colour": "#e8b598"
-                  }
-                ]
-              }
+              {"name": "Citrus","colour": "#efd580"},
+              {"name": "Berry-like", "colour": "#e8b598"}
             ]
           },
           {
