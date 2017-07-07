@@ -48,28 +48,8 @@
           {
             "name": "Chocolatey",
             "children": [
-              {
-                "name": "Chocolate-like",
-                "children": [
-                  {
-                    "name": "Bakers", "colour": "#b9763f"
-                  },
-                  {
-                    "name": "Dark Chocolate", "colour": "#bf6e5d"
-                  }
-                ]
-              },
-              {
-                "name": "Vanilla-like",
-                "children": [
-                  {
-                    "name": "Swiss", "colour": "#af643c"
-                  },
-                  {
-                    "name": "Butter", "colour": "#9b4c3f"
-                  }
-                ]
-              }
+              {"name": "Chocolate-like", "colour": "#b9763f" },
+              {"name": "Vanilla-like", "colour": "#9b4c3f" }
             ]
           }
         ]
@@ -85,28 +65,8 @@
           {
             "name": "Resinous",
             "children": [
-              {
-                "name": "Turpeny",
-                "children": [
-                  {
-                    "name": "Piney", "colour": "#72659d"
-                  },
-                  {
-                    "name": "Blackcurrant-like", "colour": "#8a6e9e"
-                  }
-                ]
-              },
-              {
-                "name": "Medicinal",
-                "children": [
-                  {
-                    "name": "Camphoric", "colour": "#8f5c85"
-                  },
-                  {
-                    "name": "Cineolic", "colour": "#934b8b"
-                  }
-                ]
-              }
+              {"name": "Turpeny", "colour": "#72659d"},
+              {"name": "Medicinal", "colour": "#8f5c85" }
             ]
           },
           {
@@ -131,33 +91,6 @@
                   },
                   {
                     "name": "Thyme", "colour": "#716084"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Carbony",
-            "children": [
-              {
-                "name": "Smokey",
-                "children": [
-                  {
-                    "name": "Tarry", "colour": "#2e6093"
-                  },
-                  {
-                    "name": "Pipe Tobacco", "colour": "#3a5988"
-                  }
-                ]
-              },
-              {
-                "name": "Ashy",
-                "children": [
-                  {
-                    "name": "Burnt", "colour": "#4a5072"
-                  },
-                  {
-                    "name": "Charred", "colour": "#393e64"
                   }
                 ]
               }
