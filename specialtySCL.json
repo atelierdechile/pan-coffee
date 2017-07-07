@@ -72,28 +72,8 @@
           {
             "name": "Spicy",
             "children": [
-              {
-                "name": "Warming",
-                "children": [
-                  {
-                    "name": "Cedar", "colour": "#9d4e87"
-                  },
-                  {
-                    "name": "Pepper", "colour": "#92538c"
-                  }
-                ]
-              },
-              {
-                "name": "Pungent",
-                "children": [
-                  {
-                    "name": "Clove", "colour": "#8b6397"
-                  },
-                  {
-                    "name": "Thyme", "colour": "#716084"
-                  }
-                ]
-              }
+              {"name": "Warming", "colour": "#9d4e87" },
+              {"name": "Pungent", "colour": "#716084" }
             ]
           }
         ]
