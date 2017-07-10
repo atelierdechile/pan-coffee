@@ -64,6 +64,23 @@
 		"panes": "café de especialidad"
       }
 },
+
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.3565429,
+          -33.4371291
+        ]
+      },
+      "properties": {
+        "name": "Bloom",
+		"fono": "+569",
+		"email": "@",
+		"panes": "café de especialidad"
+      }
+},
 	  
 {
       "type": "Feature",
