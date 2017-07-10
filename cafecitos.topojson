@@ -42,9 +42,9 @@
       },
       "properties": {
         "name": "Café Intenzzo",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
+	"fono": "+569",
+	"email": "@",
+	"café": "café de especialidad"
       }
 },
 	 
@@ -76,9 +76,9 @@
       },
       "properties": {
         "name": "Bloom",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
+	"fono": "+569",
+	"email": "@",
+	"café": "café de especialidad"
       }
 },
 
@@ -93,9 +93,9 @@
       },
       "properties": {
         "name": "Cortaderas",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
+	"fono": "+569",
+	"email": "@",
+	"café": "café de especialidad"
       }
 },
 
@@ -110,9 +110,9 @@
       },
       "properties": {
         "name": "Milk Coffee Bar",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
+	"fono": "+569",
+	"email": "@",
+	"café": "café de especialidad"
       }
 },
 	  
@@ -127,9 +127,9 @@
       },
       "properties": {
         "name": "Coffee Culture Coffee Roasters",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
+	"fono": "+569",
+	"email": "@",
+	"café": "café de especialidad"
       }
 },
 	
@@ -144,9 +144,9 @@
       },
       "properties": {
         "name": "Forastero",
-		"fono": "+56977999115",
-		"email": "@",
-		"panes": "café de especialidad"
+	"fono": "+56977999115",
+	"email": "@",
+	"café": "café de especialidad"
       }
     }
   ]
