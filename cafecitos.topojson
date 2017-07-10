@@ -138,6 +138,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          289.3768961,
+          -33.4405433
+        ]
+      },
+      "properties": {
+        "name": "Nunna Coffee",
+	"fono": "+569",
+	"email": "@",
+	"café": "café de especialidad"
+      }
+},
+	
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           289.3299505,
           -33.4456397
         ]
