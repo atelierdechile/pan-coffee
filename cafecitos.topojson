@@ -81,7 +81,58 @@
 		"panes": "café de especialidad"
       }
 },
+
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.4057966,
+          -33.432204
+        ]
+      },
+      "properties": {
+        "name": "Cortaderas",
+		"fono": "+569",
+		"email": "@",
+		"panes": "café de especialidad"
+      }
+},
+
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.3960666,
+          -33.4147139
+        ]
+      },
+      "properties": {
+        "name": "Milk Coffee Bar",
+		"fono": "+569",
+		"email": "@",
+		"panes": "café de especialidad"
+      }
+},
 	  
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.2456018,
+          -33.4637658
+        ]
+      },
+      "properties": {
+        "name": "Coffee Culture Coffee Roasters",
+		"fono": "+569",
+		"email": "@",
+		"panes": "café de especialidad"
+      }
+},
+	
 {
       "type": "Feature",
       "geometry": {
