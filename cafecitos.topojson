@@ -47,8 +47,25 @@
 		"panes": "café de especialidad"
       }
 },
+	 
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          289.400381,
+          -33.406408
+        ]
+      },
+      "properties": {
+        "name": "Nook",
+		"fono": "+569",
+		"email": "@",
+		"panes": "café de especialidad"
+      }
+},
 	  
-   {
+{
       "type": "Feature",
       "geometry": {
         "type": "Point",
