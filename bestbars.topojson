@@ -8,12 +8,12 @@
     },
     
    	{ "type": "Feature",
-      "geometry": {"type": "Point",   "coordinates": [     51.5101341    ,-0.1228064     ]    },
+      "geometry": {"type": "Point",   "coordinates": [  359.8773293       , 51.5101341  ]    },
       "properties": {  "name": "American Bar", "web": "www", "rank": "1", "year": "2017"      }
     },
    
    {  "type": "Feature",
-      "geometry": {  "type": "Point",   "coordinates": [     51.5082314  ,   -0.1090639     ]   },
+      "geometry": {  "type": "Point",   "coordinates": [  359.8909361    ,   51.5082314  ]   },
       "properties": {  "name": "Dandelyan", "web": "www", 	"rank": "2", 	"year": "2017"   }
     }
   ]
