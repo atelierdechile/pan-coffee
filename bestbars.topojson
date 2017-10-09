@@ -3,18 +3,18 @@
   "features": 
   [
     {"type": "Feature",
-      "geometry": {"type": "Point",   "coordinates": [       289.366932,       -33.441592      ]   },
-      "properties": { "name": "Original Green Roasters", "fono": "+569", "email": "@", "panes": "café de especialidad"  }
+      "geometry": {"type": "Point",   "coordinates": [       289.3640856  ,     -33.4322088     ]   },
+      "properties": { "name": "Siete Negronis", "web": "www.sietenegronis.cl", "rank": "100", "year": "2017"  }
     },
     
    	{ "type": "Feature",
-      "geometry": {"type": "Point",   "coordinates": [     289.357334,     -33.4426392        ]    },
-      "properties": {  "name": "Café Intenzzo", "fono": "+569", "email": "@", "café": "café de especialidad"      }
+      "geometry": {"type": "Point",   "coordinates": [     51.5101341    ,-0.1228064     ]    },
+      "properties": {  "name": "American Bar", "web": "www", "rank": "1", "year": "2017"      }
     },
    
    {  "type": "Feature",
-      "geometry": {  "type": "Point",   "coordinates": [      289.3299505,      -33.4456397     ]   },
-      "properties": {  "name": "Forastero", "fono": "+56977999115", 	"email": "@", 	"café": "café de especialidad"   }
+      "geometry": {  "type": "Point",   "coordinates": [     51.5082314  ,   -0.1090639     ]   },
+      "properties": {  "name": "Dandelyan", "web": "www", 	"rank": "2", 	"year": "2017"   }
     }
   ]
 }
