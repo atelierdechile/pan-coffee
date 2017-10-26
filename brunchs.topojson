@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [       289.366932,       -33.441592      ]
+      },
+      "properties": {
+        "name": "Coquinaria"
+      }
+    },
+   	  
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [     289.357334,     -33.4426392        ]
+      },
+      "properties": {
+        "name": "Maison Italia",
+	"dias": "Sábados, Domingos",
+	"email": "@",
+	"café": "café de especialidad"
+      }
+},
+  
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [     289.2410954,      -33.5080453      ]
+      },
+      "properties": {
+        "name": "Estró (Ritz)",
+	"dias": "Domingos",
+	"email": "@",
+	"café": "café de especialidad"
+      }
+},
+	
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [      289.3299505,      -33.4456397     ]
+      },
+      "properties": {
+        "name": "Catae",
+	"dias": "Domingos",
+	"email": "@",
+	"café": "café de especialidad"
+      }
+    }
+  ]
+}
