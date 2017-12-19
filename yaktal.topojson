@@ -20,33 +20,17 @@
       "properties": {     "name": "Hotel Altiplanico Bellas Artes", "fono": "Santo Domingo 526, Santiago"      }
     },
 
-{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [      289.3960666,      -33.4147139     ]
-      },
-      "properties": {
-        "name": "Milk Coffee Bar",
-	"fono": "+569",
-	"email": "@",
-	"café": "café de especialidad"
-      }
-},
-	  
-    {
-      "type": "Feature",
-      "geometry": {   "type": "Point",         "coordinates": [     289.2410954,      -33.5080453      ]      },
-      "properties": {   "name": "Coffee Culture Coffee Roasters", "fono": "+569", "email": "@", "café": "café de especialidad"  }
-    },
+   {  "type": "Feature",
+      "geometry": {       "type": "Point",        "coordinates": [      289.3960666,      -33.4147139     ]      },
+      "properties": {        "name": "Milk Coffee Bar",	"fono": "+569",	"email": "@",	"café": "café de especialidad"      }
+   },
 	
-    {
-      "type": "Feature",
+    { "type": "Feature",
       "geometry": {         "type": "Point",       "coordinates": [       289.3768961,      -33.4405433      ]       },
       "properties": {        "name": "Nunna Coffee", 	"direccion": "Seminario 94, Providencia"      }
     },
 	
-    {     "type": "Feature",
+    { "type": "Feature",
       "geometry": {  "type": "Point",    "coordinates": [      289.3678961,  -33.4405388  ]    },
       "properties": {        "name": "Forastero", "direccion": "Ricardo Cumming 54, Santiago"  }
     }
