@@ -2,7 +2,7 @@
 features: [
 
 {"type": "Feature",
-"geometry": { "type": "Point", "coordinates": [289,3647419, -33,4414877]},
+"geometry": { "type": "Point", "coordinates": [289.3647419, -33.4414877]},
 "properties": {"name": "Original Green Roasters", "direccion": "Rancagua 040, Providencia"} 
 
 }
