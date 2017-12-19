@@ -99,9 +99,7 @@
       },
       "properties": {
         "name": "Nunna Coffee",
-	"fono": "+569",
-	"email": "@",
-	"café": "café de especialidad"
+	"direccion": "Seminario 94, Providencia"
       }
 },
 	
@@ -109,7 +107,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [      289.3299505,      -33.4456397     ]
+        "coordinates": [      289.3678961,  -33.4405388  ]
       },
       "properties": {
         "name": "Forastero",
