@@ -11,21 +11,8 @@
         "name": "Original Green Roasters",
 	"direccion": "Rancagua 040, Providencia"
       }
-    },
-   {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [    289.3480445,      -33.4276064     ]
-      },
-      "properties": {
-        "name": "Café Altura",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
-      }
-   },
-	  
+},
+ 	  
 {
       "type": "Feature",
       "geometry": {
@@ -33,10 +20,8 @@
         "coordinates": [     289.357334,     -33.4426392        ]
       },
       "properties": {
-        "name": "Café Intenzzo",
-	"fono": "+569",
-	"email": "@",
-	"café": "café de especialidad"
+        "name": "Hotel Casa Zañartu",
+	"direccion": "Compañía de Jesús 1520, Santiago"
       }
 },
 	 
@@ -47,10 +32,8 @@
         "coordinates": [     289.400381,      -33.406408     ]
       },
       "properties": {
-        "name": "Nook",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
+        "name": "cafetería London Coffee",
+	"direccion": "Galería Crillón, Agustinas 1035"
       }
 },
 
@@ -61,10 +44,8 @@
         "coordinates": [    289.3565429,   -33.4371291     ]
       },
       "properties": {
-        "name": "Bloom",
-	"fono": "+569",
-	"email": "@",
-	"café": "café de especialidad"
+        "name": "Hotel Altiplanico Bellas Artes",
+	"fono": "Santo Domingo 526, Santiago"
       }
 },
 
@@ -132,9 +113,7 @@
       },
       "properties": {
         "name": "Forastero",
-	"fono": "+56977999115",
-	"email": "@",
-	"café": "café de especialidad"
+	"direccion": "Ricardo Cumming 54, Santiago"
       }
     }
   ]
