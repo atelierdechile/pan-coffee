@@ -17,7 +17,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [     289.357334,     -33.4426392        ]
+        "coordinates": [     289.27159,   -33.4392387     ]
       },
       "properties": {
         "name": "Hotel Casa Zañartu",
@@ -29,7 +29,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [     289.400381,      -33.406408     ]
+        "coordinates": [     289.3464552,    -33.4407103  ]
       },
       "properties": {
         "name": "cafetería London Coffee",
