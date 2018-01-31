@@ -1,8 +1,8 @@
 { "type": "FeatureCollection",
 "features": [
 
-{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.347975419709, -33.4331467802915]},'properties': {'name': 'Diner', 'Tipo de comida': 'Mexicana', 'direccion': 'Mercado Tirso de Molina, Santiago'} },
-{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.348872819709, -33.4320371802915]},'properties': {'name': 'Donde El Nano', 'Tipo de comida': 'Sandwiches', 'direccion': 'La Vega Central, Santiago'} },
-{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.363107019709, -33.4482623802915]},'properties': {'name': 'Il Romano', 'Tipo de comida': 'Pizzas', 'direccion': 'Av. Portugal 378, Santiago'} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.347975419709, -33.4331467802915]},"properties": {"name": "Diner", "Tipo de comida": "Mexicana", "direccion": "Mercado Tirso de Molina - Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.348872819709, -33.4320371802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sandwiches", "direccion": "La Vega Central - Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.363107019709, -33.4482623802915]},"properties": {"name": "Il Romano", "Tipo de comida": "Pizzas", "direccion": "Av. Portugal 378 - Santiago"} }
   ]  
 }
