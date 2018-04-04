@@ -3,7 +3,6 @@
 
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.392500119709, -33.4733843802915]},"properties": {"name": "Donde Camilo", "Tipo de comida": "Peruana", "Capítulo": "1" , "direccion": "Zañartu 2530 - Ñuñoa"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.305025, -33.155806]},"properties": {"name": "Donde la Magie", "Tipo de comida": "Quesos, empanadas", "Capítulo": "1" , "direccion": "Peaje Chacabuco - Los Andes"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "", "Tipo de comida": "", "Capítulo": "1" , "direccion": ""} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.221559219709, -33.5271221802915]},"properties": {"name": "Los Chavales", "Tipo de comida": "Sanguches", "Capítulo": "2" , "direccion": "Montecassino 1396 - Maipú"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.358988019709, -33.4273962802915]},"properties": {"name": "Yamile", "Tipo de comida": "Árabe", "Capítulo": "2" , "direccion": "Avenida Perú 647 - Recoleta"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.370285519709, -33.4305674802915]},"properties": {"name": "Zaatar", "Tipo de comida": "Árabe", "Capítulo": "2" , "direccion": "Monitor Araucano 0803 - Providencia"} },
