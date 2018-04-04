@@ -1,17 +1,17 @@
 { "type": "FeatureCollection",
 "features": [
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.392500119709, -33.4733843802915]},"properties": {"name": "Donde Camilo", "Tipo de comida": "Peruana", "Capítulo": "1" , "direccion": "Zañartu 2530 - Ñuñoa"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.305025, -33.155806]},"properties": {"name": "Donde la Magie", "Tipo de comida": "Quesos, empanadas", "Capítulo": "1" , "direccion": "Peaje Chacabuco - Los Andes"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.221559219709, -33.5271221802915]},"properties": {"name": "Los Chavales", "Tipo de comida": "Sanguches", "Capítulo": "2" , "direccion": "Montecassino 1396 - Maipú"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.358988019709, -33.4273962802915]},"properties": {"name": "Yamile", "Tipo de comida": "Árabe", "Capítulo": "2" , "direccion": "Avenida Perú 647 - Recoleta"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.370285519709, -33.4305674802915]},"properties": {"name": "Zaatar", "Tipo de comida": "Árabe", "Capítulo": "2" , "direccion": "Monitor Araucano 0803 - Providencia"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.402199719709, -33.4565226802915]},"properties": {"name": "Sajj", "Tipo de comida": "Árabe", "Capítulo": "2" , "direccion": "Irarrázabal 3313 - Ñuñoa"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.700851319709, -18.4870174802915]},"properties": {"name": "Chanchos", "Tipo de comida": "Vegetariano", "Capítulo": "2" , "direccion": "Mercado Tucapel - Arica"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.320862119709, -33.4539626802915]},"properties": {"name": "Tropezon", "Tipo de comida": "Chilena", "Capítulo": "2" , "direccion": "Exposición 112 - Estación Central"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.418247219709, -38.7315175802915]},"properties": {"name": "Zuny Tradiciones", "Tipo de comida": "Mapuche", "Capítulo": "2" , "direccion": "Tucapel 1374"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.347975419709, -33.4331467802915]},"properties": {"name": "Diner", "Tipo de comida": "Mexicana", "Capítulo": "2" , "direccion": "Mercado Tirso de Molina - Santiago"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.348857919709, -33.4320202802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sanguches", "Capítulo": "2" , "direccion": "La Vega Central - Santiago"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.363107019709, -33.4482623802915]},"properties": {"name": "Il Romano", "Tipo de comida": "Pizzas", "Capítulo": "1" , "direccion": "Av. Portugal 378 - Santiago"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.392500119709, -33.4733843802915]},"properties": {"name": "Donde Camilo", "Tipo de comida": "Peruana", "Temporada": "1", "Capítulo": "1" , "direccion": "Zañartu 2530 - Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.305025, -33.155806]},"properties": {"name": "Donde la Magie", "Tipo de comida": "Quesos, empanadas", "Temporada": "1", "Capítulo": "1" , "direccion": "Peaje Chacabuco - Los Andes"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.221559219709, -33.5271221802915]},"properties": {"name": "Los Chavales", "Tipo de comida": "Sanguches", "Temporada": "2", "Capítulo": "2" , "direccion": "Montecassino 1396 - Maipú"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.358988019709, -33.4273962802915]},"properties": {"name": "Yamile", "Tipo de comida": "Árabe", "Temporada": "2", "Capítulo": "2" , "direccion": "Avenida Perú 647 - Recoleta"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.370285519709, -33.4305674802915]},"properties": {"name": "Zaatar", "Tipo de comida": "Árabe", "Temporada": "2", "Capítulo": "2" , "direccion": "Monitor Araucano 0803 - Providencia"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.402199719709, -33.4565226802915]},"properties": {"name": "Sajj", "Tipo de comida": "Árabe", "Temporada": "2", "Capítulo": "2" , "direccion": "Irarrázabal 3313 - Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.700851319709, -18.4870174802915]},"properties": {"name": "Chanchos", "Tipo de comida": "Vegetariano", "Temporada": "2", "Capítulo": "2" , "direccion": "Mercado Tucapel - Arica"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.320862119709, -33.4539626802915]},"properties": {"name": "Tropezon", "Tipo de comida": "Chilena", "Temporada": "2", "Capítulo": "2" , "direccion": "Exposición 112 - Estación Central"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.418247219709, -38.7315175802915]},"properties": {"name": "Zuny Tradiciones", "Tipo de comida": "Mapuche", "Temporada": "2", "Capítulo": "2" , "direccion": "Tucapel 1374"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.347975419709, -33.4331467802915]},"properties": {"name": "Diner", "Tipo de comida": "Mexicana", "Temporada": "1", "Capítulo": "2" , "direccion": "Mercado Tirso de Molina - Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.348857919709, -33.4320202802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sanguches", "Temporada": "1", "Capítulo": "2" , "direccion": "La Vega Central - Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.363107019709, -33.4482623802915]},"properties": {"name": "Il Romano", "Tipo de comida": "Pizzas", "Temporada": "1", "Capítulo": "1" , "direccion": "Av. Portugal 378 - Santiago"} }
   ]  
 }
