@@ -9,6 +9,8 @@
       },
       "properties": {
         "name": "Original Green Roasters",
+	"staff": "Daniel",
+	"fono": "+56956365004",
         "URL": "<a href=http://www.ogrcafe.cl> Sitio web </a>"
       }
     },
@@ -20,9 +22,10 @@
       },
       "properties": {
         "name": "Café Altura",
-		"fono": "+569",
-		"email": "@",
-		"panes": "café de especialidad"
+	"staff": "Fabián, Gonzalo, Segundo; Alexander",
+	"fono": "+569",
+	"email": "@",
+	"panes": "café de especialidad"
       }
    },
 	  
