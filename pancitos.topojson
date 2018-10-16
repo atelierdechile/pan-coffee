@@ -1,27 +1,31 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          289.444397,
-          -33.451609
-        ]
-      },
-      "properties": {
-        "name": "La Indomable"
-      }
+    { "type": "Feature",
+      "geometry": {         "type": "Point",
+                             "coordinates": [          289.444397,           -33.451609         ]
+                 },
+      "properties": {    "name": "La Indomable",
+	      	         "fono": "+",
+		         "email": "@gmail.com",
+		         "panes": ""
+                    }
+    },
+  { "type": "Feature",
+      "geometry": {         "type": "Point",
+                             "coordinates": [          289.40459221,         -33.4358329        ]
+                 },
+      "properties": {    "name": "Pan Mostacho",
+	      	         "fono": "+56227428809",
+		         "email": "@gmail.com",
+		         "panes": "pan albahaca/ajo, bollos de anís, limón"
+                    }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          289.3713524,
-          -33.4449013
-        ]
+        "coordinates": [          289.3713524,           -33.4449013         ]
       },
       "properties": {
         "name": "La Panadera",
