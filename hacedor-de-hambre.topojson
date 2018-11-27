@@ -1,11 +1,48 @@
 { "type": "FeatureCollection",
 "features": [
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.392500119709, -33.4733843802915]},"properties": {"name": "Donde Camilo", "Tipo de comida": "Peruana", "Temporada": "1", "Capítulo": "1" , "direccion": "Zañartu 2530 - Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.392500119709, -33.4733843802915]},"properties": {"name": "Donde Camilo", "Tipo de comida": "Comida Peruana", "Temporada": "1", "Capítulo": "1" , "direccion": "Zañartu 2530 - Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.326770219709, -33.4457198802915]},"properties": {"name": "Yahaira", "Tipo de comida": "Comida Venezolana", "Temporada": "1", "Capítulo": "1" , "direccion": "Moneda 2602, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.443827219709, -33.4620745802915]},"properties": {"name": "La Picá del Viagra", "Tipo de comida": "Comida chilena casera", "Temporada": "1", "Capítulo": "1" , "direccion": "Leonardo da Vinci 7161, La Reina"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.443642019709, -33.4637864802915]},"properties": {"name": "Don Cata", "Tipo de comida": "Panadería, pastelería", "Temporada": "1", "Capítulo": "1" , "direccion": "Arrieta 7112, La Reina"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.305025, -33.155806]},"properties": {"name": "Donde la Magie", "Tipo de comida": "Quesos, empanadas", "Temporada": "1", "Capítulo": "1" , "direccion": "Peaje Chacabuco - Los Andes"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.363107019709, -33.4482623802915]},"properties": {"name": "Il Romano", "Tipo de comida": "Pizzas", "Temporada": "1", "Capítulo": "1" , "direccion": "Av. Portugal 378 - Santiago"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.348214119709, -33.4332035802915]},"properties": {"name": "Diner", "Tipo de comida": "Mexicana", "Temporada": "1", "Capítulo": "2" , "direccion": "Mercado Tirso de Molina - Santiago"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.349276519709, -33.4305482802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sanguches", "Temporada": "1", "Capítulo": "2" , "direccion": "La Vega Central - Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.299920419709, -33.4157975802915]},"properties": {"name": "Casa Combi", "Tipo de comida": "Sanguches", "Temporada": "1", "Capítulo": "1" , "direccion": "Raúl Dennis 2677, Quinta Normal"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.350529719709, -42.3819373802915]},"properties": {"name": "Carlita", "Tipo de comida": "Comida chilota", "Temporada": "1", "Capítulo": "2" , "direccion": "Pedro Montt 90, Dalcahue, Chiloé"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.399359919709, -32.8340781802915]},"properties": {"name": "El Vagón de las Casas", "Tipo de comida": "Pizzas", "Temporada": "1", "Capítulo": "2" , "direccion": "Esmeralda 463, Los Andes"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.379763519709, -33.4304150802915]},"properties": {"name": "Hocha", "Tipo de comida": "Comida taiwanesa", "Temporada": "1", "Capítulo": "2" , "direccion": "Nueva  Providencia 1346, Providencia"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.472280319709, -33.4832241802915]},"properties": {"name": "Liwen", "Tipo de comida": "Empanadas, Pastelería mapuche", "Temporada": "1", "Capítulo": "2" , "direccion": "Pasaje Víctor Jara 2176, Peñalolén"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.308276419709, -33.4807552802915]},"properties": {"name": "Caballo de Palo", "Tipo de comida": "Comida chilena casera", "Temporada": "1", "Capítulo": "3" , "direccion": "Cartagena 4148, Cerrillos"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.435317819709, -33.4734154802915]},"properties": {"name": "El Cuartel", "Tipo de comida": "Sanguches", "Temporada": "1", "Capítulo": "3" , "direccion": "Grecia 6785, Peñalolén"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [241.54369, 34.2733099]},"properties": {"name": "Donde Tomás", "Tipo de comida": "Empanadas, sanguches", "Temporada": "1", "Capítulo": "3" , "direccion": "Ruta del Vino kilómetro 7, San Fernando"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.334869519709, -33.4475513802915]},"properties": {"name": "Pizza Tito Boss", "Tipo de comida": "Pizzas", "Temporada": "1", "Capítulo": "3" , "direccion": "José Toribio Medina 11 local 3, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.360080719709, -33.4340327802915]},"properties": {"name": "Ña Matea", "Tipo de comida": "Empanadas, pastas", "Temporada": "1", "Capítulo": "4" , "direccion": "Purísima 171, Recoleta"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.344005719709, -33.5032400802915]},"properties": {"name": "Sabromar", "Tipo de comida": "Pescados, mariscos", "Temporada": "1", "Capítulo": "4" , "direccion": "Gran Avenida 5285, San Miguel"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.631310819708, -34.6422501802915]},"properties": {"name": "Pastelería Ommi", "Tipo de comida": "Pastelería", "Temporada": "1", "Capítulo": "4" , "direccion": "Claudio Cancino 21, Santa Cruz"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.309917, -32.8187111]},"properties": {"name": "La Ruca", "Tipo de comida": "Carnes a la chilena", "Temporada": "1", "Capítulo": "4" , "direccion": "Ruta E-803, Curimón, San Felipe"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.848620019709, -33.6566055802915]},"properties": {"name": "Chabely", "Tipo de comida": "Helados, Frutas bañadas", "Temporada": "1", "Capítulo": "4" , "direccion": "Roberto Bravo 46, Pomaire"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.850056919709, -33.6545779802915]},"properties": {"name": "Mi Ranchito", "Tipo de comida": "Pastel de choclo", "Temporada": "1", "Capítulo": "4" , "direccion": "Manuel Rodríguez 204, Pomaire"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.847210119709, -33.6535041802915]},"properties": {"name": "Los Naranjos de Pomaire", "Tipo de comida": "Comida chilena, Mote con huesillos", "Temporada": "1", "Capítulo": "4" , "direccion": "San Antonio 279, Pomaire"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.349745219709, -33.4624143802915]},"properties": {"name": "Punto Sabroso", "Tipo de comida": "Comida colombiana", "Temporada": "1", "Capítulo": "5" , "direccion": "San Diego 1198, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.847569619709, -33.6487414802915]},"properties": {"name": "La Coyita", "Tipo de comida": "Comida chilena", "Temporada": "1", "Capítulo": "5" , "direccion": "San Antonio 615, Pomaire"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.441785819709, -33.0267418802915]},"properties": {"name": "Burreros", "Tipo de comida": "Comida mexicana", "Temporada": "1", "Capítulo": "5" , "direccion": "Viana 419, Viña del Mar"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.013133919709, -41.3185040802915]},"properties": {"name": "Donde El Gordito", "Tipo de comida": "Comida chilena", "Temporada": "1", "Capítulo": "5" , "direccion": "San Bernardo 560, Puerto Varas"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.326101219709, -33.4523321802915]},"properties": {"name": "América Morena ", "Tipo de comida": "Jugos de frutas", "Temporada": "1", "Capítulo": "5" , "direccion": "Abate Molina 91, Plaza de Bolsillo, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.326101219709, -33.4523321802915]},"properties": {"name": "Charrúas", "Tipo de comida": "Milanesas", "Temporada": "1", "Capítulo": "5" , "direccion": "Abate Molina 91, Plaza de Bolsillo, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.326101219709, -33.4523321802915]},"properties": {"name": "Foodtruckttoría", "Tipo de comida": "Pizzas, ñoquis", "Temporada": "1", "Capítulo": "5" , "direccion": "Abate Molina 91, Plaza de Bolsillo, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.326101219709, -33.4523321802915]},"properties": {"name": "Gusta Gusta Móvil", "Tipo de comida": "Shawarmas", "Temporada": "1", "Capítulo": "5" , "direccion": "Abate Molina 91, Plaza de Bolsillo, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.326101219709, -33.4523321802915]},"properties": {"name": "Ooh la wea rica", "Tipo de comida": "Fajitas, quesadillas", "Temporada": "1", "Capítulo": "5" , "direccion": "Abate Molina 91, Plaza de Bolsillo, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.326101219709, -33.4523321802915]},"properties": {"name": "Café Andino", "Tipo de comida": "Café", "Temporada": "1", "Capítulo": "5" , "direccion": "Abate Molina 91, Plaza de Bolsillo, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.251169019709, -33.5177482802915]},"properties": {"name": "El Carrito de 4 Álamos", "Tipo de comida": "Completos", "Temporada": "1", "Capítulo": "6" , "direccion": "Segunda Transversal 899, Maipú"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.371893619709, -33.4476146802915]},"properties": {"name": "El Hoyo Chico", "Tipo de comida": "Pernil, lengua, comida chilena", "Temporada": "1", "Capítulo": "6" , "direccion": "Crédito 471, Providencia"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.970067719709, -41.1393159802915]},"properties": {"name": "Kuchen Tante Lilian", "Tipo de comida": "Pastelería", "Temporada": "1", "Capítulo": "6" , "direccion": "Vicente Pérez Rosales 815, Frutillar"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.452941319709, -33.0272601802915]},"properties": {"name": "Taquería La Mexicana", "Tipo de comida": "Tacos", "Temporada": "1", "Capítulo": "6" , "direccion": "Valparaíso 1137, Viña del Mar"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.442984519709, -33.0191159802915]},"properties": {"name": "Roof Burger", "Tipo de comida": "Hamburguesas", "Temporada": "1", "Capítulo": "7" , "direccion": "4 Poniente 406, Viña del Mar"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.371148419709, -33.4478666802915]},"properties": {"name": "Thai Corner", "Tipo de comida": "Comida thai", "Temporada": "1", "Capítulo": "7" , "direccion": "Santa Isabel 0296, Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.226697319709, -42.6224853802915]},"properties": {"name": "Mercado Alejandro", "Tipo de comida": "Comida casera", "Temporada": "1", "Capítulo": "7" , "direccion": "Centenario 75, Chonchi, Chiloé"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.403937319708, -33.4440314802915]},"properties": {"name": "ValDaosta", "Tipo de comida": "Pastas", "Temporada": "1", "Capítulo": "7" , "direccion": "El Aguilucho 3510, Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.370880019708, -33.4421571802915]},"properties": {"name": "Eccolo qua", "Tipo de comida": "Pastas", "Temporada": "1", "Capítulo": "7" , "direccion": "Condell 621, Providencia"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.412936819709, -33.4459448802915]},"properties": {"name": "Assaggio", "Tipo de comida": "Pastas", "Temporada": "1", "Capítulo": "7" , "direccion": "Pucará 4312, Ñuñoa"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.369210919709, -33.4590460802915]},"properties": {"name": "Domburi", "Tipo de comida": "Mexicano-japonesa", "Temporada": "1", "Capítulo": "8" , "direccion": "Vicuña Mackenna 1247, Ñuñoa"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.4801438, -31.9249139]},"properties": {"name": "Contra Viento y Marea", "Tipo de comida": "Pescados y mariscos", "Temporada": "1", "Capítulo": "8" , "direccion": "Salvador Allende 600, Los Vilos"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.365619319708, -33.4709818802915]},"properties": {"name": "Sabor Sureño", "Tipo de comida": "Comida chilena", "Temporada": "1", "Capítulo": "8" , "direccion": "General Gana 382, Santiago"} },
@@ -21,9 +58,29 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.327478319708, -33.4357776802915]},"properties": {"name": "Los Buenos Amigos", "Tipo de comida": "Comida chilena casera", "Temporada": "1", "Capítulo": "10" , "direccion": "General Bulnes 854 A, Santiago"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.443178119709, -33.0188338802915]},"properties": {"name": "A Mano Hot Dogs Bar", "Tipo de comida": "Completos", "Temporada": "1", "Capítulo": "10" , "direccion": "4 Poniente 416, Viña del Mar"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.373779419709, -33.4515257802915]},"properties": {"name": "Fuente Italia", "Tipo de comida": "Sanguches", "Temporada": "1", "Capítulo": "11" , "direccion": "Condell 1694, Ñuñoa"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.231575019709, -42.4822799802915]},"properties": {"name": "La brújula del cuerpo", "Tipo de comida": "Helados", "Temporada": "1", "Capítulo": "11" , "direccion": "Bernardo OHiggins 302, Castro"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.231575019709, -42.4822799802915]},"properties": {"name": "La Brújula del Cuerpo", "Tipo de comida": "Helados", "Temporada": "1", "Capítulo": "11" , "direccion": "Bernardo OHiggins 302, Castro"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.252060819709, -33.4847961802915]},"properties": {"name": "Scaramuzza Pizza", "Tipo de comida": "Pizzas", "Temporada": "1", "Capítulo": "11" , "direccion": "Pajaritos 4262, Maipú"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.422044919708, -33.4493604802915]},"properties": {"name": "Pollo Pernil", "Tipo de comida": "Pollos asados", "Temporada": "1", "Capítulo": "11" , "direccion": "Simon Bólivar 5218,Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.369029519709, -33.4590603802915]},"properties": {"name": "María Hamka Kusi", "Tipo de comida": "Pollos asados", "Temporada": "1", "Capítulo": "11" , "direccion": "Santa Elvira 17A, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.366167019709, -33.4469863802915]},"properties": {"name": "El Único Pollo a las brasas", "Tipo de comida": "Pollos asados", "Temporada": "1", "Capítulo": "11" , "direccion": "Vicuña Mackenna 322, Providencia"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.348155819709, -33.4333484802915]},"properties": {"name": "Diner", "Tipo de comida": "Mexicana", "Temporada": "1", "Capítulo": "12" , "direccion": "Mercado Tirso de Molina, local 234, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.444972519709, -33.0173587802915]},"properties": {"name": "Barbones Bar & Hostel", "Tipo de comida": "Sanguches", "Temporada": "1", "Capítulo": "12" , "direccion": "7 Norte 420, Viña del Mar"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.029734419708, -41.3277543802915]},"properties": {"name": "Shoper", "Tipo de comida": "Sanguches, pizzas", "Temporada": "1", "Capítulo": "12" , "direccion": "Vicente Pérez Rosales 1117, Puerto Varas"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.366180319709, -33.4528615802915]},"properties": {"name": "Pastelería Doña Peta", "Tipo de comida": "Pastelería", "Temporada": "1", "Capítulo": "12" , "direccion": "10 de Julio 101A, Santiago"} },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.348214119709, -33.4332035802915]},"properties": {"name": "Juanito Ollas", "Tipo de comida": "Internacional", "Temporada": "2", "Capítulo": "1" , "direccion": "Mercado Tirso de Molina - Santiago "} },
@@ -34,18 +91,29 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.847088719709, -20.2114997802915]},"properties": {"name": "Sra María Bravo", "Tipo de comida": "Ceviche", "Temporada": "2", "Capítulo": "2" , "direccion": "Arturo Prat 84 - Iquique"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.847088719709, -20.2114997802915]},"properties": {"name": "Picá de la Mary", "Tipo de comida": "Sánguche de albacora frita", "Temporada": "2", "Capítulo": "2" , "direccion": "Arturo Prat 84 - Iquique"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.152447619709, -33.5978226802915]},"properties": {"name": "Las Delicias de los Salinas", "Tipo de comida": "Chilena", "Temporada": "2", "Capítulo": "2" , "direccion": "Pajaritos 39 - Malloco"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [316.2049401, -23.0822288]},"properties": {"name": "Banchan Nara", "Tipo de comida": "Coreana", "Temporada": "2", "Capítulo": "2" , "direccion": "Rio de Janeiro 234 - Recoleta"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.355653419708, -33.4330289802915]},"properties": {"name": "Chicken Story", "Tipo de comida": "Coreana", "Temporada": "2", "Capítulo": "2" , "direccion": "Antonia López de Bello 267 - Recoleta"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.355602419709, -33.4315758802915]},"properties": {"name": "Mobssie", "Tipo de comida": "Coreana, Café", "Temporada": "2", "Capítulo": "2" , "direccion": "Santa Filomena 284 - Recoleta"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.355153819709, -33.4326424802915]},"properties": {"name": "Banchan Nara", "Tipo de comida": "Coreana", "Temporada": "2", "Capítulo": "2" , "direccion": "Rio de Janeiro 234, Recoleta, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.355653419708, -33.4330289802915]},"properties": {"name": "Chicken Story", "Tipo de comida": "Coreana", "Temporada": "2", "Capítulo": "2" , "direccion": "Antonia López de Bello 267 , Recoleta"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.355602419709, -33.4315758802915]},"properties": {"name": "Mobssie", "Tipo de comida": "Coreana, Café", "Temporada": "2", "Capítulo": "2" , "direccion": "Santa Filomena 284 , Recoleta"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.598552219709, -39.8711993302915]},"properties": {"name": "Café La Motoneta", "Tipo de comida": "Chilena, sánguches", "Temporada": "2", "Capítulo": "2" , "direccion": "Del Castillo 995 - Niebla - Chile"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.370498019709, -33.4458355802915]},"properties": {"name": "Tattoo Rockers", "Tipo de comida": "Sánguches, Pizzas", "Temporada": "2", "Capítulo": "2" , "direccion": "Marín 0285 - Providencia"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.221559219709, -33.5271221802915]},"properties": {"name": "Los Chavales", "Tipo de comida": "Sánguches", "Temporada": "2", "Capítulo": "3" , "direccion": "Montecassino 1396 - Maipú"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.358988019709, -33.4273962802915]},"properties": {"name": "Yamile", "Tipo de comida": "Árabe", "Temporada": "2", "Capítulo": "3" , "direccion": "Avenida Perú 647 - Recoleta"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.370285519709, -33.4305674802915]},"properties": {"name": "Zaatar", "Tipo de comida": "Árabe", "Temporada": "2", "Capítulo": "3" , "direccion": "Monitor Araucano 0803 - Providencia"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.402199719709, -33.4565226802915]},"properties": {"name": "Sajj", "Tipo de comida": "Árabe", "Temporada": "2", "Capítulo": "3" , "direccion": "Irarrázabal 3313 - Ñuñoa"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.358988019709, -33.4273962802915]},"properties": {"name": "Yamile", "Tipo de comida": "Comida Árabe", "Temporada": "2", "Capítulo": "3" , "direccion": "Avenida Perú 647 - Recoleta"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.370285519709, -33.4305674802915]},"properties": {"name": "Zaatar", "Tipo de comida": "Comida Árabe", "Temporada": "2", "Capítulo": "3" , "direccion": "Monitor Araucano 0803 - Providencia"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.402199719709, -33.4565226802915]},"properties": {"name": "Sajj", "Tipo de comida": "Comida Árabe", "Temporada": "2", "Capítulo": "3" , "direccion": "Irarrázabal 3313 - Ñuñoa"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.700851319709, -18.4870174802915]},"properties": {"name": "Chanchos", "Tipo de comida": "Vegetariano", "Temporada": "2", "Capítulo": "3" , "direccion": "Mercado Tucapel - Arica"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.320862119709, -33.4539626802915]},"properties": {"name": "Tropezon", "Tipo de comida": "Chilena", "Temporada": "2", "Capítulo": "3" , "direccion": "Exposición 112 - Estación Central"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.418247219709, -38.7315175802915]},"properties": {"name": "Zuny Tradiciones", "Tipo de comida": "Mapuche", "Temporada": "2", "Capítulo": "3" , "direccion": "Tucapel 1374"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.418247219709, -38.7315175802915]},"properties": {"name": "Zuny Tradiciones", "Tipo de comida": "Mapuche", "Temporada": "2", "Capítulo": "3" , "direccion": "Tucapel 1374, Temuco"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.349276519709, -33.4305482802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sanguches", "Temporada": "2", "Capítulo": "11" , "direccion": "La Vega Central - Santiago"} },
+
+
+
+
+
+
+
+
+
+
 
 
 
