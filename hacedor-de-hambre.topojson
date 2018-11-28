@@ -128,17 +128,16 @@
 
 
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.349276519709, -33.4305482802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sanguches", "Temporada": "2", "Capítulo": "11" , "direccion": "La Vega Central - Santiago"} },
-
-
-
-
-
-
-
-
-
-
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.349276519709, -33.4305482802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sanguches gigantes", "Temporada": "2", "Capítulo": "11" , "direccion": "Antonia López de Bello 743, local 235, La Vega Central, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.425910719709, -33.4035619802915]},"properties": {"name": "Aloha Grill", "Tipo de comida": "Parrilla Hawaiana", "Temporada": "2", "Capítulo": "11" , "direccion": "Parque Araucano"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.086717519709, -53.1648229802915]},"properties": {"name": "El Huaruno", "Tipo de comida": "Comida casera, carnes", "Temporada": "2", "Capítulo": "11" , "direccion": "Chiloé 1231, Punta Arenas, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.255523519709, -34.1780758802915]},"properties": {"name": "Café Nómade", "Tipo de comida": "Shawarmas", "Temporada": "2", "Capítulo": "11" , "direccion": "Cachapoal 195, Rancagua, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [286.1580937, -43.1204878]},"properties": {"name": "La Maurita", "Tipo de comida": "Picada camioneros", "Temporada": "2", "Capítulo": "11" , "direccion": "Ruta 5 Norte kilometro 60, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.152836019709, -33.4500742802915]},"properties": {"name": "La Picá del Negro", "Tipo de comida": "Picada camioneros", "Temporada": "2", "Capítulo": "11" , "direccion": "Lo Aguirre 580, Ciudad de los Valles, Pudahuel, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.262345819708, -33.4542717802915]},"properties": {"name": "El Cumbión", "Tipo de comida": "Comida casera, Pollo al coñac, Conejo escabechado", "Temporada": "2", "Capítulo": "12" , "direccion": "General Oscar Bonilla 7227, Lo Prado, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.499103619709, -51.7326963802915]},"properties": {"name": "Café Kaikén", "Tipo de comida": "Comida chilena", "Temporada": "2", "Capítulo": "12" , "direccion": "Baquedano 699, Puerto Natales, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.345142919709, -33.4417995802915]},"properties": {"name": "Café del 10", "Tipo de comida": "Chocolates", "Temporada": "2", "Capítulo": "12" , "direccion": "Morandé 243, Santiago, Chile"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.407368219709, -33.4499257802915]},"properties": {"name": "Café Wallo"s", "Tipo de comida": "Chocolates", "Temporada": "2", "Capítulo": "12" , "direccion": "Simón Bolívar 3761, Ñuñoa, Santiago"} },
 
 
 
