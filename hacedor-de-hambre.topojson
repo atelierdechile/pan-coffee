@@ -137,7 +137,7 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.262345819708, -33.4542717802915]},"properties": {"name": "El Cumbión", "Tipo de comida": "Comida casera, Pollo al coñac, Conejo escabechado", "Temporada": "2", "Capítulo": "12" , "direccion": "General Oscar Bonilla 7227, Lo Prado, Chile"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.499103619709, -51.7326963802915]},"properties": {"name": "Café Kaikén", "Tipo de comida": "Comida chilena", "Temporada": "2", "Capítulo": "12" , "direccion": "Baquedano 699, Puerto Natales, Chile"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.345142919709, -33.4417995802915]},"properties": {"name": "Café del 10", "Tipo de comida": "Chocolates", "Temporada": "2", "Capítulo": "12" , "direccion": "Morandé 243, Santiago, Chile"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.407368219709, -33.4499257802915]},"properties": {"name": "Café Wallo"s", "Tipo de comida": "Chocolates", "Temporada": "2", "Capítulo": "12" , "direccion": "Simón Bolívar 3761, Ñuñoa, Santiago"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.407368219709, -33.4499257802915]},"properties": {"name": "Café Wallos", "Tipo de comida": "Chocolates", "Temporada": "2", "Capítulo": "12" , "direccion": "Simón Bolívar 3761, Ñuñoa, Santiago"} },
 
 
 
