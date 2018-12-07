@@ -178,6 +178,5 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.346336919709, -33.4583140802915]},"properties": {"name": "Delisosa Bistró", "Tipo de comida": "Comida casera", "Temporada": "3", "Capítulo": "8" , "direccion": "Nataniel Cox 883, Santiago, Chile"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [287.804827, -34.9097413]},"properties": {"name": "La Empana de Duao", "Tipo de comida": "Empanadas, cochayuyo-queso, dulces", "Temporada": "3", "Capítulo": "8" , "direccion": "Duao, Chile"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.379413319709, -33.4285625802915]},"properties": {"name": "El garage de la chanchita", "Tipo de comida": "Comida casera", "Temporada": "3", "Capítulo": "8" , "direccion": "General Flores 108, Providencia"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "ULTIMO CAPITULO", "Tipo de comida": "Pizzas", "Temporada": "3", "Capítulo": "16" , "direccion": "Av. Portugal 100, Santiago"} }
-  ]  
+{'type': 'Feature', 'geometry': { 'type': 'Point', 'coordinates': [289.361012019709, -33.4444439802915]},'properties': {'name': 'ULTIMO CAPITULO', 'Tipo de comida': 'Pizzas', 'Temporada': '3', 'Capítulo': '16' , 'direccion': 'Av. Portugal 100, Santiago, Chile'} }  ]  
 }
