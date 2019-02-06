@@ -210,7 +210,6 @@
 
 
 
-
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.361012019709, -33.4444439802915]},"properties": {"name": "ULTIMO CAPITULO", "Tipo de comida": "Pizzas", "Temporada": "3", "Capítulo": "16" , "direccion": "Av. Portugal 100, Santiago"} }
   ]  
 }
