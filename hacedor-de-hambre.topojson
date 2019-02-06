@@ -144,12 +144,7 @@
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.353844019709, -33.4418872802915]},"properties": {"name": "Warú", "Tipo de comida": "Comida casera", "Temporada": "2", "Capítulo": "8" , "direccion": "Santa Lucía 168, Santiago"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [288.347978819709, -35.4256294802915]},"properties": {"name": "A Todo Chancho", "Tipo de comida": "Sopaipillas, sánguches", "Temporada": "2", "Capítulo": "8" , "direccion": "Calle 3 1/2 Norte 1752, Talca"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.382800319709, -33.5005951802915]},"properties": {"name": "Carrito de Jully", "Tipo de comida": "Sopaipillas", "Temporada": "2", "Capítulo": "8" , "direccion": "Estación Metro San Joaquín, Santiago"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "", "Tipo de comida": "", "Temporada": "2", "Capítulo": "9" , "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "", "Tipo de comida": "", "Temporada": "2", "Capítulo": "9" , "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "", "Tipo de comida": "", "Temporada": "2", "Capítulo": "9" , "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "", "Tipo de comida": "", "Temporada": "2", "Capítulo": "10" , "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "", "Tipo de comida": "", "Temporada": "2", "Capítulo": "10" , "direccion": ""} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [360, ]},"properties": {"name": "", "Tipo de comida": "", "Temporada": "2", "Capítulo": "10" , "direccion": ""} },
+
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.349276519709, -33.4305482802915]},"properties": {"name": "Donde El Nano", "Tipo de comida": "Sanguches gigantes", "Temporada": "2", "Capítulo": "11" , "direccion": "Calle Antonia López de Bello 743, local 235, La Vega Central"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.425910719709, -33.4035619802915]},"properties": {"name": "Aloha Grill", "Tipo de comida": "Parrilla Hawaiana", "Temporada": "2", "Capítulo": "11" , "direccion": "Parque Araucano, Las Condes"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.086717819709, -53.1648232802915]},"properties": {"name": "El Huaruno", "Tipo de comida": "Comida casera, carnes", "Temporada": "2", "Capítulo": "11" , "direccion": "Chiloé 1231, Punta Arenas"} },
