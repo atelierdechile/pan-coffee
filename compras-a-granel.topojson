@@ -5,7 +5,7 @@
 "features": [
 
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.244421269709, -33.5013294302915]},"properties": {"Tienda": "Mayal Granel", "Dirección": "Av Central Gonzalo Pérez Llona 300, Maipú", "Horario": "Lun a vie:10 a 20 hrs, Sab: 10 a 18 hrs ", "Teléfono": "56 9 9637 5106 " , "Web": "www"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.244421269709, -33.5013294302915]},"properties": {"Tienda": "La Nacional", "Dirección": "Av Central Gonzalo Pérez Llona 300, Maipú", "Horario": "Lunes a Viernes 10:00 a 19:30, Sábados 10:30 a 14:00  ", "Teléfono": "57 9 9637 5106" , "Web": "https://www.lanacional.cl/"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Tienda": "La Nacional", "Dirección": "Av Central Gonzalo Pérez Llona 300, Maipú", "Horario": "Lunes a Viernes 10:00 a 19:30, Sábados 10:30 a 14:00  ", "Teléfono": "57 9 9637 5106" , "Web": "https://www.lanacional.cl/"} }
 
 
 ]  }
