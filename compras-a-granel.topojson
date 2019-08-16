@@ -1,11 +1,8 @@
-
-
-
 { "type": "FeatureCollection",
 "features": [
 
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.244421269709, -33.5013294302915]},"properties": {"Tienda": "Mayal Granel", "Dirección": "Av Central Gonzalo Pérez Llona 300, Maipú", "Horario": "Lun a vie:10 a 20 hrs, Sab: 10 a 18 hrs ", "Teléfono": "56 9 9637 5106 " , "Web": "www"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Tienda": "La Nacional", "Dirección": "Av Central Gonzalo Pérez Llona 300, Maipú", "Horario": "Lunes a Viernes 10:00 a 19:30, Sábados 10:30 a 14:00  ", "Teléfono": "57 9 9637 5106" , "Web": "https://www.lanacional.cl/"} }
-
-
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.1671181, -33.6741885]},"properties": {"Tienda": "La Nacional", "Dirección": "Santiago", "Horario": "Lunes a Viernes 10:00 a 19:30, Sábados 10:30 a 14:00  ", "Teléfono": "57 9 9637 5106" , "Web": "https://www.lanacional.cl/"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.405952619709, -33.4565282802915]},"properties": {"Tienda": "Sin Envase", "Dirección": "Irarrázaval 3620, Ñuñoa", "Horario": "Lunes a Sábados 10:00 a 20:00", "Teléfono": "" , "Web": "http://www.sin-envase.cl/"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.349165919709, -33.4502056802915]},"properties": {"Tienda": "Mercado Ecológico", "Dirección": "Arturo Prat 293, Santiago", "Horario": "Lu a Sa 9:30 a 21:00 hr (pausa 14 a 15 hrs),  Domingo 10 a 20 hrs (pausa 14 a15 hrs)", "Teléfono": "" , "Web": "http://www.mercadoecologico.cl"} }
 ]  }
