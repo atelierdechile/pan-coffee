@@ -1,41 +1,11 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    { "type": "Feature",
-      "geometry": {         "type": "Point",
-                             "coordinates": [          289.444397,           -33.451609         ]
-                 },
-      "properties": {    "name": "La Indomable",
-		         "direcion": "",
-	      	         "fono": "+",
-		         "email": "@gmail.com",
-		         "panes": ""
-                    }
-    },
-  { "type": "Feature",
-      "geometry": {         "type": "Point",
-                             "coordinates": [          289.40459221,         -33.4358329        ]
-                 },
-      "properties": {    "name": "Pan Mostacho",
-		         "direcion": "Francisco Bilbao 2841",
-	      	         "fono": "+56227428809",
-		         "email": "@gmail.com",
-		         "panes": "pan albahaca/ajo, bollos de anís, limón"
-                    }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [          289.3713524,           -33.4449013         ]
-      },
-      "properties": {
-        "name": "La Panadera",
-	        "direcion": "",
-		"fono": "+56968316956",
-		"email": "panaderialaindomable@gmail.com",
-		"panes": "Baquettes au levain, Hogazas, Bolleria, Ciabattas"
-      }
-    }
-  ]
-}
+
+
+
+{ "type": "FeatureCollection",
+"features": [
+
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.244421269709, -33.5013294302915]},"properties": {"Tienda": "Mayal Granel", "Dirección": "Av Central Gonzalo Pérez Llona 300, Maipú", "Horario": "Lun a vie:10 a 20 hrs, Sab: 10 a 18 hrs ", "Teléfono": "56 9 9637 5106 " , "Web": "www"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.244421269709, -33.5013294302915]},"properties": {"Tienda": "La Nacional", "Dirección": "Av Central Gonzalo Pérez Llona 300, Maipú", "Horario": "Lunes a Viernes 10:00 a 19:30, Sábados 10:30 a 14:00  ", "Teléfono": "57 9 9637 5106" , "Web": "https://www.lanacional.cl/"} },
+
+
+]  }
