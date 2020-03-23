@@ -1,41 +1,9 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    { "type": "Feature",
-      "geometry": {         "type": "Point",
-                             "coordinates": [          289.444397,           -33.451609         ]
-                 },
-      "properties": {    "name": "La Indomable",
-		         "direcion": "",
-	      	         "fono": "+",
-		         "email": "@gmail.com",
-		         "panes": ""
-                    }
-    },
-  { "type": "Feature",
-      "geometry": {         "type": "Point",
-                             "coordinates": [          289.40459221,         -33.4358329        ]
-                 },
-      "properties": {    "name": "Pan Mostacho",
-		         "direcion": "Francisco Bilbao 2841",
-	      	         "fono": "+56227428809",
-		         "email": "@gmail.com",
-		         "panes": "pan albahaca/ajo, bollos de anís, limón"
-                    }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [          289.3713524,           -33.4449013         ]
-      },
-      "properties": {
-        "name": "La Panadera",
-	        "direcion": "",
-		"fono": "+56968316956",
-		"email": "panaderialaindomable@gmail.com",
-		"panes": "Baquettes au levain, Hogazas, Bolleria, Ciabattas"
-      }
-    }
+{ "type": "FeatureCollection",
+"features": [
+
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.426760919709, -33.6099326802915]},"properties": {"Panadería": "De Molina", "Productos": "Panes, dulces, pizzas", "Teléfono": "+56934485544", "Web": "www.demolina.cl" , "Direccion": "José Luis Coo 0302 - Puente Alto" , "Instagram": "https://www.instagram.com/demolinabc/" , "Horarios": "Sin Info"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Panadería": "Almita", "Productos": "Panes", "Teléfono": "", "Web": "www.almita.cl/" , "Direccion": "" , "Instagram": "" , "Horarios": "Sin Info"} }
+
+
   ]
 }
