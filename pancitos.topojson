@@ -2,7 +2,7 @@
 "features": [
 
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.426760919709, -33.6099326802915]},"properties": {"Panadería": "De Molina", "Productos": "Panes, dulces, pizzas", "Teléfono": "+56934485544", "Web": "www.demolina.cl" , "Direccion": "José Luis Coo 0302 - Puente Alto" , "Instagram": "https://www.instagram.com/demolinabc/" , "Horarios": "Sin Info"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [, ]},"properties": {"Panadería": "Almita", "Productos": "Panes", "Teléfono": "", "Web": "www.almita.cl/" , "Direccion": "" , "Instagram": "" , "Horarios": "Sin Info"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.4001683, -33.45351548]},"properties": {"Panadería": "Almita", "Productos": "Panes", "Teléfono": "", "Web": "www.almita.cl/" , "Direccion": "" , "Instagram": "" , "Horarios": "Sin Info"} }
 
 
   ]
