@@ -2,8 +2,8 @@
 "features": [
 
 
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-18.4782327, 289.6801347]},"properties": {"Tienda": "Kumara Ecotienda", "Dirección": "Centro Comercial El Morro, Local 22, Arica", "Horario": "289.6801347", "Teléfono": "kumaraecotienda@gmail.com" , "Web": "Lu a Sá 10:30 a 14:30  - 17:30 a 21:30 - Domingo Cerrado"} },
-{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-20.2214098, 289.8481768]},"properties": {"Tienda": "Superjusto", "Dirección": "Eleuterio Ramírez 1399, Iquique", "Horario": "289.8481768", "Teléfono": "" , "Web": "L-V 12:00-20:00 hrs Sab 12:00-16:00 hrs"} }
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.6801347, -18.4782327]},"properties": {"Tienda": "Kumara Ecotienda", "Dirección": "Centro Comercial El Morro, Local 22, Arica", "Horario": "289.6801347", "Teléfono": "kumaraecotienda@gmail.com" , "Web": "Lu a Sá 10:30 a 14:30  - 17:30 a 21:30 - Domingo Cerrado"} },
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [289.8481768, -20.2214098]},"properties": {"Tienda": "Superjusto", "Dirección": "Eleuterio Ramírez 1399, Iquique", "Horario": "289.8481768", "Teléfono": "" , "Web": "L-V 12:00-20:00 hrs Sab 12:00-16:00 hrs"} }
 
 
 ]  }
